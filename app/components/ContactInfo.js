@@ -1,7 +1,12 @@
 
-const ContactInfo = ({ text }) => {
+const ContactInfo = ({ text, subtext }) => {
 
-    return <h4>{text}</h4>
+    return (
+        <h4>
+            {text}
+            {subtext ? <><br />{subtext}</> : null}
+        </h4>
+    )
 
 }
 

@@ -10,3 +10,9 @@
     margin-left: auto;
     text-align: right;
 }
+
+.divider {
+    border: 1px solid #222;
+    border-radius: 4px;
+    margin-top: 16px;
+}
