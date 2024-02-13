@@ -30,7 +30,7 @@ const Left = () => {
 const Right = () => {
   return (
     <section>
-      <AboutInfoHeader text='O MNIE' />
+      <AboutInfoHeader text='O MNIE1' />
       <AboutInfo text='Jestem programistą z 7 letnim doświadczeniem. Uczę się sam dzięki czem1u nowe wyzwania nie sprawiają mi trudności. Kieruję się czystością kodu i podziałem na funkcjonalność.' />
       
       <AboutInfoHeader text='ZALETY' />
