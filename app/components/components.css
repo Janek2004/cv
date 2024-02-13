@@ -1,0 +1,12 @@
+.contact-info-header {
+    display: flex;
+}
+
+.contact-info-header-h2 {
+    text-align: center;
+}
+
+.contact-info-subtext {
+    margin-left: auto;
+    text-align: right;
+}
