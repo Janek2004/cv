@@ -11,6 +11,7 @@ body {
   margin: 0;
   background-color: #fff;
   color: #000;
+  font-size: 90%;
   font-family: Roboto Mono;
 }
 
@@ -27,7 +28,7 @@ body {
 }
 
 .main nav header h1 {
-  font-size: 32px;
+  font-size: 28px;
   text-align: center;
 }
 
